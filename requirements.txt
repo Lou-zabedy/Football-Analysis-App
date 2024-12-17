@@ -3,3 +3,5 @@ streamlit-option-menu
 numerize
 matplotlib
 mplsoccer
+altair
+openpyxl 
